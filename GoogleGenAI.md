@@ -12,3 +12,8 @@ Elérhetőség: Az API kulcsot a Google AI Studio-n keresztül lehet igényelni.
 
 # https://console.cloud.google.com/apis/dashboard?inv=1&invt=AbohJA&project=gen-lang-client-0248333309
 
+
+docs: https://ai.google.dev/gemini-api/docs
+
+
+
