@@ -10,4 +10,3 @@ response = ollama.chat(model='llama3:8b', messages=[
 
 # A válasz kiírása
 print(response['message']['content'])
-
